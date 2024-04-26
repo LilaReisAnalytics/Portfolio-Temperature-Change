@@ -95,7 +95,8 @@ The vast majority of scientists around the world agree that our temperature is c
 
 ______________________________________________
 
-## Temperature Change x Deforestation
+![image](https://github.com/LilaReisAnalytics/Portfolio-Temperature-Change/assets/89642255/feb055e3-03a5-4811-9902-91e9735c7c41)
+
 
 Among the many gifts that forests give us, one of them is helping to slow down climate change.
 Trees capture greenhouse gases like carbon dioxide, preventing them from accumulating in the atmosphere and warming our planet.

@@ -5,7 +5,7 @@ Climate change is one of the important issues facing the world. The best proof o
 
 But what really causes it? 
 
-In this analysis we compare temperature change with Population, Co2 emission and Deforestation. However, The purpose of this project is to investigate if there is any hope of stopping global warming
+In this analysis I compare temperature change with Population, Co2 emission and Deforestation. However, The purpose of this project is to investigate if there is any hope of stopping global warming
 
 Data Used:
 
@@ -15,6 +15,8 @@ Data Used:
 [Population](https://data.worldbank.org/indicator/SP.POP.TOTL)
 
 [CO2 Emissions](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country?select=co2_emissions_kt_by_country.csv)
+
+[Deforestation](https://www.kaggle.com/datasets/chiticariucristian/deforestation-and-forest-loss)
 
 
 ____________________________________________ 
@@ -55,7 +57,7 @@ ______________________________________________
 
 <span style="color:#5F603C">Insights: </span>
 
-- Serbia, despite its lower population density, experiences a notable temperature change of 1.56. This can be attributed to its geographical location and climate transition, as well as the urbanization and urban heat island effect.
+- Serbia, despite its lower population density, experiences a notable temperature change of 1.56°C. This can be attributed to its geographical location and climate transition, as well as the urbanization and urban heat island effect.
 - Temperature change is not necessarily about population size. Countries with high temperature changes are mainly reliant on fossil fuels for power/energy generation.
 
  ______________________________________________
@@ -88,4 +90,28 @@ ______________________________________________
 
 The vast majority of scientists around the world agree that our temperature is changing at a faster rate than ever recorded in human history because of our use of fuels such as coal and oil, so-called fossil fuels
 
+______________________________________________
 
+## Temperature Change x Deforestation
+
+Among the many gifts that forests give us, one of them is helping to slow down climate change.
+Trees capture greenhouse gases like carbon dioxide, preventing them from accumulating in the atmosphere and warming our planet.
+
+
+![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/d8bdea29-4085-4b25-9a8e-189793efb4a7)
+
+<span style="color:#5F603C">Insights: </span>
+
+- Brazil, avg. Temperature Variation: 0.53°C, Deforestation -2,68M. Brazil with nearly the worst rate of deforestation does not show as high a temperature variance as Canada. 
+
+
+- In Brazil we have the Amazon, one of the largest rainforests in the world and the most important. The Amazon rainforest plays an important role in regulating the world's oxygen and carbon cycles. It produces about 6% of the world's oxygen and has long been believed to act as a carbon sink, meaning it readily absorbs large amounts of carbon dioxide from the atmosphere. Although, through this graph in Brazil there is an incomparable deforestation -2,68M and Temperature change 0.53°C
+
+______________________________________________
+
+
+## Conclusion : Taking Action Against Climate change
+
+How can all of us make a difference?
+
+Addressing climate change requires collective effort and urgent action. By reducing greenhouse gas emissions, protecting natural habitats, promoting sustainable living, advocating for policy change, and raising awareness, we can make a difference in averting the rise in temperature and building a more sustainable future for all. As individuals, communities, and societies, we have the power to enact positive change. By embracing sustainable practices, supporting climate-friendly policies, and spreading awareness, we can all contribute to the global effort to combat climate change and create a healthier planet for generations to come.

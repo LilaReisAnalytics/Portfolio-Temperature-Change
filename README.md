@@ -24,7 +24,8 @@ ____________________________________________
 
 ## Top 5 countries with highest temperature change (2020)
 
-![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/a70bd7b7-f6a2-4604-915a-48d9d1598c8f)
+![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/e7c2b361-be7e-4db8-b2ef-d1197dea8fdc)
+
 
 <span style="color:#5F603C">Insights: </span>
 

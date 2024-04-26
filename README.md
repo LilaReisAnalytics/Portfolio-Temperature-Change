@@ -32,6 +32,7 @@ ______________________________________________
 
 ## Temperature change across G20 and some developing countries 
 
+
 ![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/881b7ed6-75ed-4198-8999-eee3f26ba2a1)
 
 ![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/dc96d87d-f7a9-47df-b8bc-c95425c81aea)
@@ -39,4 +40,52 @@ ______________________________________________
 <span style="color:#5F603C">Insights: </span>
 
 In analyzing temperature variations across G20 countries and selected developing nations from 2015 to 2020, it becomes evident that certain countries experience more pronounced changes. Among the G20 nations, Canada, Germany, Russia, South Africa, and Turkey exhibit notably higher variations in temperature, indicating significant fluctuations within their climates. Similarly, within the group of developing countries, Afghanistan, Pakistan, and Kenya emerge with the highest levels of temperature variation. 
+
+______________________________________________
+
+## Does population impact Climate Change?
+
+
+
+![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/32ef6792-b332-4ab9-9f2d-b9315c6879e9)
+
+![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/8d8a2345-886d-40f3-914a-d31b7a6fa03e)
+
+![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/a8ffe02b-e0f6-4b72-996b-705f02fde09f)
+
+<span style="color:#5F603C">Insights: </span>
+
+- Serbia, despite its lower population density, experiences a notable temperature change of 1.56. This can be attributed to its geographical location and climate transition, as well as the urbanization and urban heat island effect.
+- Temperature change is not necessarily about population size. Countries with high temperature changes are mainly reliant on fossil fuels for power/energy generation.
+
+ ______________________________________________
+
+## Developing and Developed Countries
+
+
+![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/1f7446ba-70ac-44a7-816d-69a899dd947c)
+
+<span style="color:#5F603C">Insights: </span>
+
+Why are developing countries more vulnerable to climate change?
+
+
+Developing countries are weaker socially, financially and economically compared to countries. They have limited resources to fight the effect of global climate change.
+
+______________________________________________
+
+## Top Countries  that Emits more CO2 in the Atmosphere 
+
+
+![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/d61e962f-930f-4e4d-b743-a65ea10bbeb6)
+
+
+![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/d0da583f-d397-4d06-8dcc-f3e4a86172a1)
+
+![image](https://github.com/LilaReisAnalytics/Portfolio_BI_TemperatureChange/assets/89642255/e90c9f45-8268-4031-86a7-89666e4f5fcc)
+
+<span style="color:#5F603C">Insights: </span>
+
+The vast majority of scientists around the world agree that our temperature is changing at a faster rate than ever recorded in human history because of our use of fuels such as coal and oil, so-called fossil fuels
+
 
